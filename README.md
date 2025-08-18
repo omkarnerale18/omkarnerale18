@@ -6,7 +6,7 @@
 
 ###
 
-<h4 align="left">🌱 I'm Currently learning AWS, Docker, Terraform</h4>
+<h4 align="left">🌱 I'm Currently learning AWS, Docker, Terraform and Kubernetes.</h4>
 
 ###
 
