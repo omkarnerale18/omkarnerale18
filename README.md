@@ -1,66 +1,83 @@
-<h1 align="left">Hi!👋 I'am Omkar</h1>
+# 👋 Hello, I'm Omkar Nerale  
 
-###
+🎯 **DevOps & Cloud Engineer | Continuous Learner | Automation Enthusiast**
 
-<h3 align="left">A passionate front end Developer with major Focus on Cloud Technologies and DevOps.</h3>
+I’m passionate about building efficient, automated infrastructure and learning how modern DevOps tools streamline software delivery.  
+Currently exploring real-world projects to strengthen my hands-on experience in Cloud, CI/CD, and Infrastructure as Code.
 
-###
+---
 
-<h4 align="left">🌱 I'm Currently learning AWS, Docker, Terraform and Kubernetes.</h4>
+## 🚀 Skills & Expertise  
 
-###
+### ☁️ **Cloud Platforms**
+- AWS 
 
-<h4 align="left">📲Connect With Me:</h4>
+### 🛠️ **DevOps Tools**
+- Jenkins | Maven   
 
-###
+### 🐳 **Containers & Orchestration**
+- Docker | Kubernetes  
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/omkar-nerale-85730b317/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-  <a href="omkarnerale2003@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
+### ⚙️ **Infrastructure as Code**
+- Terraform  
+
+### 🖥️ **Web Servers**
+- Nginx  
+
+### 🐧 **Operating Systems & Scripting**
+- Linux | Shell Scripting | Bash Automation  
+
+### 🔁 **Other Areas**
+- CI/CD Pipelines | Version Control (Git, GitHub) | Monitoring | Cloud Deployment  
+
+---
+
+## 🔭 **Current Focus**
+- Building and deploying sample CI/CD pipelines  
+- Automating infrastructure provisioning using Terraform  
+- Learning advanced Kubernetes and AWS services  
+
+---
+
+## 📊 **GitHub Stats**
+
+<div align="center">
+
+![Omkar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=omkarnerale18&show_icons=true&theme=tokyonight&count_private=true&hide_border=true)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=omkarnerale18&layout=compact&theme=tokyonight&hide_border=true)
+
 </div>
 
-###
+---
 
-<h6 align="left"></h6>
+## 🛠️ **Tools & Technologies**
+<p align="center">
+  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jenkins-D33833?style=for-the-badge&logo=jenkins&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+</p>
+---
 
-###
+## 📫 **Let's Connect**
 
-<h4 align="left">🚀Tech Stack:</h4>
+- 📧 Email: [omkarnerale2003@gmail.com](mailto:omkarnerale2003@gmail.com)  
+- 💼 LinkedIn: [linkedin.com/in/omkar-nerale-85730b317](https://www.linkedin.com/in/omkar-nerale-85730b317/)  
+- 🧑‍💻 GitHub: [github.com/omkarnerale18](https://github.com/omkarnerale18)
 
-###
+---
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="40" alt="terraform logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo"  />
-</div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=omkarnerale18&label=Profile%20Views&color=0e75b6&style=flat" alt="omkarnerale18" />
+</p>
 
-###
+---
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=omkarnerale18&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
-
-###
+⭐ _“Automate everything that can be automated — efficiency is the soul of DevOps.”_  
