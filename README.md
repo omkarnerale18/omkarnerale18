@@ -10,13 +10,6 @@
 
 ---
 
-<!-- Anime Coding GIF -->
-<p align="center">
-  <img src="https://i.imgur.com/1ZvVkDc.gif" width="460"/>
-</p>
-
----
-
 # 👋 Hello, I'm **Omkar Nerale**  
 
 🎯 **DevOps & Cloud Engineer | Continuous Learner | Automation Enthusiast**
