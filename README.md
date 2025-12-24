@@ -88,6 +88,12 @@ I’m passionate about building efficient, automated infrastructure and learning
   <a href="https://github.com/omkarnerale18">  
     <img src="https://img.shields.io/badge/GitHub-24292F?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
+  <a href="https://www.instagram.com/omkar_nerale18/">  
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="https://hub.docker.com/u/omkarnerale18">  
+    <img src="https://img.shields.io/badge/DockerHub-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  </a>
 </p>
 
 
